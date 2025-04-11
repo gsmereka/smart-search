@@ -33,13 +33,5 @@ Algumas possíveis aplicações dessa tecnologia incluem:
 - Ferramentas de atendimento automatizado
 - Classificação automática de sentimentos em pesquisas e reviews
 
----
-
-## 🧠 Exemplos de Uso com Outras IAs
-
-Grandes empresas de tecnologia, como a Amazon, e ferramentas disponíveis em extensões do Google Chrome já utilizam serviços de IA para análise de sentimentos, resumindo a opinião geral dos usuários sobre um produto ou serviço.
-
-![IA Amazon](imagens/amazon.png)
-![IA Chrome](imagens/chrome.png)
-
----
+Pontos Negativos:
+- A configuração do serviço se mostrou um pouco instável. Além disso, os tutoriais apresentados em aula estavam desatualizados, o que acabou dificultando a realização de alguns passos. Outro ponto foi a pouca disponibilidade de material atualizado na internet, o que tornou a pesquisa e o desenvolvimento mais desafiadores.
